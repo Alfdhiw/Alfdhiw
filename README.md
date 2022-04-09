@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on **UDINUS**
 
-- 🌱 I’m currently learning **HTML,CSS,Java**
+- 🌱 I’m currently learning **HTML,CSS,Java,Phython**
 
 - 📫 How to reach me **wibowalif22@gmail.com**
 
