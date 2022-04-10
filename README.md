@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,Java,Phython**
 
-- 📫 How to reach me **wibowalif24@gmail.com**
+- 📫 How to reach me **wibowalif22@gmail.com**
 
 - ⚡ Fun fact **Just doing the best**
 
