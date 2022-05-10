@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **wibowalif22@gmail.com**
 
-- ⚡ Fun fact **Just doing the best**
+- ⚡ Please follow me for support ^^
 
 ## 🚀 Languages and Tools:
 
