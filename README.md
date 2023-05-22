@@ -2,18 +2,28 @@
 
 <h1 align="center">Hi , I'm Alif</h1>
 <h3 align="center">I'm a passionate Younger Web Developer and Designer from Indonesia.</h3>
-<h4 align="center">Let's see my portofolio https://alfdhiw.github.io/MyPortofolio/</h4>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying on **UDINUS**
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🌱 I’m currently learning **HTML,CSS,Java**
+- 🙋‍♂️ All about me is at **[My Website](https://alfdhiw.github.io/MyPortofolio/)**
 
-- 📫 How to reach me **wibowalif22@gmail.com**
+- 🔭 I’m currently working on `Something Intresting`.
 
-- ⚡ Please follow me for support ^^
+- 🌱 I’m currently learning `web 3.0`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
 
 ## 🚀 Languages and Tools:
 
